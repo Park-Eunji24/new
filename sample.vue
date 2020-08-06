@@ -86,9 +86,9 @@
 
 @media only screen 
 and (max-width : 1350px) {
-  .row .v-toolbar__content .f_mname{font-size: 2.5vw;}
-  .row .v-toolbar__content .f_p{font-size: 1.3vw;}
-  .col footer.v-footer .v-progress-linear__content .vt{font-size:2vw;}
+.row .v-toolbar__content .f_mname{font-size: 2.5vw;}
+.row .v-toolbar__content .f_p{font-size: 1.3vw;}
+.col footer.v-footer .v-progress-linear__content .vt{font-size:2vw;}
 .row.no-gutters .col .text-center .f_end{font-size:6.5vw;}
 }
 
@@ -106,7 +106,7 @@ and (max-width : 1350px) {
 }
 
 @media only screen and (min-width : 320px) and (max-width : 479px) {
-  .row.no-gutters .col .text-center .f_end{font-size: 7.5vw;}
+.row.no-gutters .col .text-center .f_end{font-size: 7.5vw;}
 .row .v-toolbar__content .f_mname{margin:5% 0;font-size: 1vw;letter-spacing: -1px;}
 .row .v-toolbar__content .f_p{margin:1%;font-size:0.5vw;letter-spacing: -1.5px;}
 .col footer.v-footer .v-progress-linear__content .vt{font-size:1.5vw;}
