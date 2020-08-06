@@ -102,7 +102,8 @@ and (max-width : 1350px) {
 .row .v-toolbar__content .f_mname{font-size: 1.5vw;letter-spacing: -0.5px;}
 .row .v-toolbar__content .f_p{font-size: 1vw;letter-spacing: -1px}
 .col footer.v-footer .v-progress-linear__content .vt{font-size:1.5vw;}
-.row.no-gutters .col .text-center .f_end{font-size:5vw;}.col footer.v-footer .v-progress-linear__content .vt:nth-of-type(2){padding-right:0;}
+.row.no-gutters .col .text-center .f_end{font-size:5vw;}
+.col footer.v-footer .v-progress-linear__content .vt:nth-of-type(2){padding-right:0;}
 }
 
 @media only screen and (min-width : 320px) and (max-width : 479px) {
@@ -110,7 +111,8 @@ and (max-width : 1350px) {
 .row .v-toolbar__content .f_mname{margin:5% 0;font-size: 1vw;letter-spacing: -1px;}
 .row .v-toolbar__content .f_p{margin:1%;font-size:0.5vw;letter-spacing: -1.5px;}
 .col footer.v-footer .v-progress-linear__content .vt{font-size:1.5vw;}
-.row.no-gutters .col .text-center .f_end{font-size:5vw;}.col footer.v-footer .v-progress-linear__content .vt:nth-of-type(2){padding-right:0;}
+.row.no-gutters .col .text-center .f_end{font-size:5vw;}
+.col footer.v-footer .v-progress-linear__content .vt:nth-of-type(2){padding-right:0;}
 }
 <!-- CSS 끝 !-->
 </style>
