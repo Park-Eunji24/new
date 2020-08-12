@@ -70,7 +70,7 @@
 .v-application{line-height:2;}
 .row.no-gutters{overflow:hidden;width:100%;margin:0;}
 .row.no-gutters .col{float:left;width:33.33%;flex-basis: auto;flex-grow: initial;}
-.row.no-gutters .col .text-center{padding:15% 0 35%;}
+.row.no-gutters .col .text-center{height:100vh;line-height:100vh;}
 .row.no-gutters .col .text-center .f_end{font-size:7vw;}
 .row header.v-sheet{height:auto !important;}
 .row .v-toolbar__content{height:auto !important;}
